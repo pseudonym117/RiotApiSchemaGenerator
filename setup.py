@@ -17,7 +17,7 @@ setup(
 
     packages=find_packages(exclude=['test']),
 
-    description='RiotApiSchemaGenerator creates JSON schemas by scraping the Riot Games API Refernce page',
+    description='RiotApiSchemaGenerator creates JSON schema files by scraping the Riot Games API Reference page',
     long_description=open(descr_file).read(),
     author='AG Stephan',
     url='https://github.com/pseudonym117/RiotApiSchemaGenerator',

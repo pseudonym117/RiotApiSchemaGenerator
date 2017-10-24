@@ -1,6 +1,9 @@
 RiotApiSchemaGenerator v0.1.0
 =============================
 
+RiotApiSchemaGenerator creates JSON schema files by scraping the Riot Games API Reference page
+
+
 After installing, schemas can be generated with the following command:
 
 ::
