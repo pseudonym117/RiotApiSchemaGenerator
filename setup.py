@@ -22,12 +22,9 @@ setup(
     author='AG Stephan',
     url='https://github.com/pseudonym117/RiotApiSchemaGenerator',
     classifiers=[
-        'License :: OSI Approved :: MIT License',
+        'License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)',
         'Topic :: Software Development :: Libraries :: Python Modules',
-        'Topic :: Text Processing',
-        'Topic :: Games/Entertainment :: Real Time Strategy',
-        'Topic :: Games/Entertainment :: Role-Playing'
     ],
-    license='MIT',
+    license='Mozilla Public License 2.0 (MPL 2.0)',
     install_requires=requirements,
  )
